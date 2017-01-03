@@ -1,0 +1,1 @@
+# wsdl-metadata-csharp-proxy-assembly
